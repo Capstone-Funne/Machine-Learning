@@ -1,5 +1,7 @@
 # Machine Learning for Funne
 
+Dataset OCR and Ingredients 
+
 Created By:
 
 **1. Made Radipta Dwi Prabawa (M368DSX2830)**.\
