@@ -1,10 +1,12 @@
 # Machine Learning for Funne
 
-**Dataset**\
+In this project, machine learning creates a sentiment analysis model to classify skincare product ingredients that have the potential to trigger fungal acne and are safe for fungal acne.
+
+# Dataset 
+
 The dataset we use in building the model:\
-[A-Z Handwritten Alphabets](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format)\
-[MNIST 0-9](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv)\
-[Skincare Product Dataset](https://drive.google.com/drive/u/0/folders/120VMAgHmeSU6zv4YI9mTkBFME4BbHlqF)
+[Cosmetics datasets](https://www.kaggle.com/datasets/kingabzpro/cosmetics-datasets)
+
 
 **Created By:**\
 **1. Made Radipta Dwi Prabawa (M368DSX2830)**.\
