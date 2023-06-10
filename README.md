@@ -8,19 +8,19 @@ References dataset we use in building the model:
 - [Ingredients Sezia Website](https://www.sezia.co/ingredients)
 - [Fungal Acne Safe Products](https://simpleskincarescience.com/fungal-acne-products-malassezia-pityrosporum-folliculitis/)
 
-# Website Checker
-
-We use [Sezia](https://www.sezia.co/) for checking skincare products trigger or safe fungal acne. This website contains material checking, ingredients that trigger into 4 categories (fatty acids, lipids, ester, and miscellanuous), and skincare product recommendations.
-
 
 # Library Sentiment Analysis Model
+- Numpy
 - TensorFlow
-- TensorFlow.js
 - Keras
 - Pandas
-- Numpy
-- TextVectorization
 - Matplotlib
+- Embeddings
+- Tokenizer
+
+# Website Checker
+We use [Sezia](https://www.sezia.co/) for checking skincare products trigger or safe fungal acne. This website contains material checking, ingredients that trigger into 4 categories (fatty acids, lipids, ester, and miscellanuous), and skincare product recommendations.
+
 
 # References
 [Sentiment Analysis of Twitter](https://github.com/somvirs57/twitter_sentiment_analysis/blob/master/sentiment_analysis_of_twitter_dataset.py), 
