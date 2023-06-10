@@ -34,5 +34,7 @@ steps:
       - '0'
       - '--max-instances'
       - '1'
+      - '--port'
+      - '8501'
 images:
   - 'us-central1-docker.pkg.dev/$PROJECT_ID/funne-ml/funne-ml-development:$COMMIT_SHA'
