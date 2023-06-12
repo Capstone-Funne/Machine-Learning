@@ -23,8 +23,10 @@ We use [Sezia](https://www.sezia.co/) for checking skincare products trigger or 
 
 
 # References
-[Sentiment Analysis of Twitter](https://github.com/somvirs57/twitter_sentiment_analysis/blob/master/sentiment_analysis_of_twitter_dataset.py), 
-[Sentiment Analysis Models Anticede](https://github.com/RashidMaulana/Anticede/blob/main/Machine%20Learning/model/model_anticede.ipynb), 
+[Sentiment Analysis of Twitter](https://github.com/somvirs57/twitter_sentiment_analysis/blob/master/sentiment_analysis_of_twitter_dataset.py) 
+
+[Sentiment Analysis Models Anticede](https://github.com/RashidMaulana/Anticede/blob/main/Machine%20Learning/model/model_anticede.ipynb)
+
 [Text Based Sentiment Analysis using LSTM](https://www.ijert.org/text-based-sentiment-analysis-using-lstm)
 
 # Contributor
