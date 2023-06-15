@@ -19,7 +19,7 @@ References dataset we use in building the model:
 - Tokenizer
 
 # Website Checker
-We use [Sezia](https://www.sezia.co/) for checking skincare products trigger or safe fungal acne. This website contains material checking, ingredients that trigger into 4 categories (fatty acids, lipids, ester, and miscellanuous), and skincare product recommendations.
+We use [Sezia](https://www.sezia.co/) for checking skincare products trigger or safe fungal acne. This website contains material checking, ingredients that trigger into 5 categories (fatty acids, lipids, ester, miscellanuous, high sensitivity), and skincare product recommendations.
 
 
 # References
